@@ -1,0 +1,9 @@
+{
+  "name": "temperatura-terminal",
+  "version": "1.0.0",
+  "description": "Mini app de terminal para converter temperaturas, consumindo a biblioteca TempKit via git submodule.",
+  "main": "terminal.js",
+  "scripts": { "start": "node terminal.js" },
+  "license": "MIT",
+  "author": ""
+}
