@@ -1,7 +1,7 @@
 'use strict';
 
 const readline = require('readline');
-const TempKit = require('./lib/tempkit-js');
+const TempKit = require('./lib/tempkit');
 
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
 const linhas = rl[Symbol.asyncIterator]();
