@@ -1,0 +1,3 @@
+[submodule "lib/tempkit"]
+	path = lib/tempkit
+	url = https://github.com/VitorJunior60/tempkit.git
