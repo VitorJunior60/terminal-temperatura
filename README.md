@@ -7,7 +7,7 @@ como **git submodule** (`lib/tempkit`).
 ## Como obter (com o submódulo)
 
 ```bash
-git clone --recurse-submodules https://github.com/<VitorJunior60>/temperatura-terminal.git
+git clone --recurse-submodules https://github.com/VitorJunior60/temperatura-terminal.git
 cd temperatura-terminal
 ```
 
