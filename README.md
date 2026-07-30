@@ -1,14 +1,14 @@
-# TempKit CLI
+# Temperatura Terminal
 
 Mini app de terminal que converte temperaturas entre Celsius, Fahrenheit e
-Kelvin, consumindo a biblioteca [TempKit](https://github.com/<seu-usuario>/tempkit-js)
-como **git submodule** (`lib/tempkit-js`).
+Kelvin, consumindo a biblioteca [TempKit](https://github.com/VitorJunior60/tempkit)
+como **git submodule** (`lib/tempkit`).
 
 ## Como obter (com o submódulo)
 
 ```bash
-git clone --recurse-submodules https://github.com/<seu-usuario>/tempkit-cli.git
-cd tempkit-cli
+git clone --recurse-submodules https://github.com/<VitorJunior60>/temperatura-terminal.git
+cd temperatura-terminal
 ```
 
 Se já clonou sem `--recurse-submodules`:
