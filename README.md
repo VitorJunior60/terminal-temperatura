@@ -20,7 +20,7 @@ git submodule update --init --recursive
 ## Como executar
 
 ```bash
-node cli.js
+node terminal.js
 ```
 
 ## Exemplo
